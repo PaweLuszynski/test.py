@@ -4,4 +4,4 @@ Aby działały potrzebny jest:
 - Pip3,
 - biblioteka xlsxwriter.
 
-Do edycji polecam ]używać programu PyCharm. 
+Do edycji polecam używać programu PyCharm. 
