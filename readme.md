@@ -1,4 +1,15 @@
-Skrypty do tworzenia plików xlsx z różnymi danymi. Póki co generuje tylko wartości numeryczne i txt ale planuje rozszerzyć to do wartosci Dat, DateTime itp.
+Skrypty do tworzenia plików xlsx z różnymi danymi. Póki co generuje:
+- Booleany, 
+- Filepathy,
+- Headery,
+- randomowe daty
+- integery
+- listy z wieloma opcjami
+- wartosci numeryczne
+- wartosci procentowe
+- txt
+- adresy url
+
 Aby działały potrzebny jest:
 - Python3, 
 - Pip3,
